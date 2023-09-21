@@ -1,0 +1,14 @@
+Compile instructions
+---------------------
+From 'bin' folder type 'make'
+
+
+Run instructions
+-----------------
+- Basic run: 'assembler' executable located in 'bin' folder
+- Example: ./assembler file1 file2 ...
+
+Attached examples runs (see in runfile.sh in 'run_examples' folder)
+----------------------
+1. Description: run all 4 files
+2. Description: run only two files (invalid)

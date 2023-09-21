@@ -1,0 +1,22 @@
+./invalid_run1/input:3: Undefined command
+./invalid_run1/input:11: Invalid label name; Max name length is 31 charecters
+./invalid_run1/input:12: Invalid label name; only alphabet or digit charecters allowed
+./invalid_run1/input:14: Invalid label name; Label cannot be named as register
+./invalid_run1/input:15: Invalid label name; Label cannot be name as instruction or directive
+./invalid_run1/input:17: Invalid label name; Label cannot be named as macro definition
+./invalid_run1/input:18: Invalid label name; Label cannot be named as macro definition
+./invalid_run1/input:4: Invalid commas, can't create instruction
+./invalid_run1/input:5: Invalid commas, can't create instruction
+./invalid_run1/input:6: Missing 1 argument out of 1 for instruction
+./invalid_run1/input:7: Missing 1 argument out of 2 for instruction
+./invalid_run1/input:8: Missing 1 argument out of 2 for instruction
+./invalid_run1/input:9: Invalid number; only integers supported
+./invalid_run1/input:10: Invalid register
+./invalid_run1/input:19: The label "symb]r10" is undefined
+./invalid_run1/input:20: The label "symb" is undefined
+./invalid_run1/input:21: Invalid argument for instruction
+./invalid_run1/input:22: Invalid argument for instruction
+./invalid_run1/input:23: Invalid commas, can't create instruction
+./invalid_run1/input:24: Invalid commas, can't create instruction
+./invalid_run1/input:25: Invalid text after end of instruction
+Errors found in ./invalid_run1/input, can't build object files

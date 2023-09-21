@@ -1,0 +1,30 @@
+./invalid_run2/input:23: Too many argument, only 1 required
+./invalid_run2/input:24: Invalid text after end of directive
+./invalid_run2/input:25: Invalid text after end of directive
+./invalid_run2/input:26: Too many argument, only 1 required
+./invalid_run2/input:27: Data argument must be digits
+./invalid_run2/input:28: Invalid commas
+./invalid_run2/input:29: Invalid commas
+./invalid_run2/input:30: Data argument must be digits
+./invalid_run2/input:31: No arguments for directive
+./invalid_run2/input:32: Invalid string definition
+./invalid_run2/input:33: Invalid string definition
+./invalid_run2/input:34: Invalid string definition
+./invalid_run2/input:4: Invalid text after end of instruction
+./invalid_run2/input:5: Invalid commas, can't create instruction
+./invalid_run2/input:6: Invalid commas, can't create instruction
+./invalid_run2/input:7: Invalid argument for instruction
+./invalid_run2/input:8: Invalid argument for instruction
+./invalid_run2/input:9: Invalid argument for instruction
+./invalid_run2/input:10: too many arguments, 0 required
+./invalid_run2/input:11: Invalid commas, can't create instruction
+./invalid_run2/input:12: Missing 1 argument out of 1 for instruction
+./invalid_run2/input:13: The label "symb" is undefined
+./invalid_run2/input:14: Missing 1 argument out of 2 for instruction
+./invalid_run2/input:15: Invalid commas, can't create instruction
+./invalid_run2/input:16: The label "symb" is undefined
+./invalid_run2/input:17: Invalid commas, can't create instruction
+./invalid_run2/input:18: Invalid commas, can't create instruction
+./invalid_run2/input:21: No arguments for directive
+./invalid_run2/input:22: Invalid text after end of directive
+Errors found in ./invalid_run2/input, can't build object files
